@@ -6,6 +6,7 @@
 	<version>1.1</version>
 	<packaging>jar</packaging>
 
+	
 	<name>fred</name>
 	<url>http://maven.apache.org</url> <!-- expects you to override with url of company -->
 
